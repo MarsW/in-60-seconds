@@ -28,7 +28,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 <iframe height="400px" width="100%" src="https://repl.it/@MARSW/gitpitchtest?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 +++ 
-<iframe width="800" height="500" frameborder="0" src="http://pythontutor.com/iframe-embed.html#code=for%20i%20in%20range%285%29%3A%0A%20%20%20%20print%28i%29&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=0&heapPrimitives=nevernest&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
+<iframe width="800" height="500" frameborder="0" src="https://cscircles.cemc.uwaterloo.ca/visualize#code=for+i+in+range(3)%3A%0A+++print(i)&mode=display&raw_input=&curInstr=7"> </iframe>
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
