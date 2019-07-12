@@ -18,7 +18,7 @@ print("Hello")
 
 +++?code=src/test.py&lang=python
 @title[code 旁可放註解]
-# code 旁可放註解
+code 旁可放註解
 @snap[east span-50]
 ### Live Code Presenting
 @snapend
