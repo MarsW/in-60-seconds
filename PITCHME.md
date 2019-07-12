@@ -14,6 +14,9 @@ print("Hello")
 
 +++?code=src/test.py&lang=python
 
++++
+@code[python zoom-21](src/test.py)
+
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
