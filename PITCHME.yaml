@@ -47,3 +47,4 @@ description : "A short tutorial introducing the power and simplicity of GitPitch
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
 print-fragments : true
+code-line-numbers : true
