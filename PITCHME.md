@@ -14,8 +14,14 @@ print("Hello")
 
 +++?code=src/test.py&lang=python
 
-+++
-@code[python zoom-21](src/test.py)
+
+---
+@snap[west span-40]
+@code[python zoom-07](src/test.py)
+@snapend
+@snap[east span-50]
+### Live Code Presenting
+@snapend
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
