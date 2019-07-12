@@ -6,6 +6,9 @@
 
 ![](assets/img/presentation.png)
 
++++ 
+子頁1-1
+
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
@@ -20,6 +23,12 @@
 @snap[south span-100 text-white]
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
+
++++ 
+子頁2-1
+
++++ 
+子頁2-2
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
