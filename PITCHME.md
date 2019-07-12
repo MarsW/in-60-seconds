@@ -18,6 +18,7 @@ print("Hello")
 
 +++?code=src/test.py&lang=python
 @title[code 旁可放註解]
+# code 旁可放註解
 @snap[east span-50]
 ### Live Code Presenting
 @snapend
@@ -28,7 +29,7 @@ code 一步步講解
 @[1](You can step-and-zoom into selected sections of code directly on your slides.)
 
 +++ 
-@title[嵌入iframe:repl.it]
+@title["嵌入iframe:repl.it"]
 <iframe height="400px" width="100%" src="https://repl.it/@MARSW/gitpitchtest?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 +++ 
