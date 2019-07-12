@@ -12,7 +12,7 @@ print("Hello")
 
 ```
 
-+++ ?code=src/test.py&lang=python
++++?code=src/test.py&lang=python
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
