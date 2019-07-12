@@ -16,17 +16,12 @@ print("Hello")
 
 
 ---?code=src/test.py&lang=python
-@snap[west span-40]
-
-@snapend
 @snap[east span-50]
 ### Live Code Presenting
 @snapend
 
 ---?code=src/test.py&lang=python
-@snap[south span-100]
 @[1](You can step-and-zoom into selected sections of code directly on your slides.)
-@snapend
 
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
