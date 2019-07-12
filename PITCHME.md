@@ -25,7 +25,10 @@ print("Hello")
 
 ---
 @code[python zoom-21](src/test.py)
+@snap[south span-100]
 @[1, zoom-25](You can step-and-zoom into selected sections of code directly on your slides.)
+@snapend
+
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
