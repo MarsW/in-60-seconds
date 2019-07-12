@@ -42,7 +42,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 - You will be amazed
 - *With a little imagination...*
 @ulend
-@snapend
+
 
 有動畫
 @ul[spaced text-white]
@@ -50,6 +50,8 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 - *With a little imagination...*
 - And **GitPitch Markdown**
 @ulend
+
+@snapend
 
 @snap[east span-45]
 @img[shadow](assets/img/conference.png)
