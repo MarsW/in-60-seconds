@@ -17,16 +17,16 @@ print("Hello")
 
 ---
 @snap[west span-40]
-@code[python zoom-07](src/test.py)
+code=src/test.py&lang=python
 @snapend
 @snap[east span-50]
 ### Live Code Presenting
 @snapend
 
 ---
-@code[python zoom-21](src/test.py)
+code=src/test.py&lang=python
 @snap[south span-100]
-@[1, zoom-25](You can step-and-zoom into selected sections of code directly on your slides.)
+@[1](You can step-and-zoom into selected sections of code directly on your slides.)
 @snapend
 
 
