@@ -36,7 +36,6 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snap[north-west h4-white]
 #### And start presenting...
 @snapend
-沒動畫
 @snap[west span-55]
 @ul[spaced text-white](false)
 - You will be amazed
@@ -44,7 +43,6 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @ulend
 
 
-有動畫
 @ul[spaced text-white]
 - You will be amazed
 - *With a little imagination...*
