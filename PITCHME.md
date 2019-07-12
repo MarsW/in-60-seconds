@@ -7,7 +7,12 @@
 ![](assets/img/presentation.png)
 
 +++ 
-子頁1-1
+```python
+print("Hello")
+
+```
+
++++ ?code=src/test.py&lang=python
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
